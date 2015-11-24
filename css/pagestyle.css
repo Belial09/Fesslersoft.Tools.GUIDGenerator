@@ -1,0 +1,17 @@
+.marginButton
+{
+    margin-right: 20px;
+}
+.radioLeft{
+    text-align: left;
+    display:inline-block;
+}
+.resultLabel
+{
+    background-color: #edeceb;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 100%
+}
